@@ -9,6 +9,7 @@ public class Student {
 		this.age = age;
 	}
 	
+	
 	public String getName() {
 		return name;
 	}
@@ -16,5 +17,4 @@ public class Student {
 	public int getAge() {
 		return age;
 	}
-	
 }
